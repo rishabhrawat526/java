@@ -20,6 +20,8 @@ public class p2_Task02_secondjavaProgram {
 		add(1,2);
 		diff(2,1);
 		
+		//create static instance of abc class
+		
 		abc obj= new abc();
 		System.out.println(obj.add(1, 2));
 		System.out.println(obj.diff(2, 1));

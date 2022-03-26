@@ -23,8 +23,4 @@ public class p2_task01_secondjavaprogram {
 		System.out.println("hello !world ");
 	}
 	
-	static class abc
-	{
-		Sysout
-	}
 }

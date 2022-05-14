@@ -50,7 +50,7 @@ public class QUESTION_01 {
 		
 		Student(){
 			System.out.print("Enter Name: ");
-			name = sc.nextLine();
+			name = sc.nextLine();4555-
 			
 			System.out.print("Enter Age: ");
 			age = sc.nextInt();
